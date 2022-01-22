@@ -10,8 +10,9 @@ Some of my resources are:
 
 ### Table
 
-| #      | Title                                                           | Provider | Solution                                                                                                    | Difficulty |
-| ------ | --------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
-| `0001` | [Remove Element](https://leetcode.com/problems/remove-element/) | LeetCode | [Python](https://github.com/ErfanNaseriMovahed/ProblemSolving/blob/main/LeetCode/RemoveElement/Solution.py) | Easy       |
+| #      | Title                                                                                             | Provider | Solution                                                                                                                | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------- | ---------- |
+| `0001` | [Remove Element](https://leetcode.com/problems/remove-element/)                                   | LeetCode | [Python](https://github.com/ErfanNaseriMovahed/ProblemSolving/blob/main/LeetCode/RemoveElement/Solution.py)             | Easy       |
+| `0002` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | [Python](https://github.com/ErfanNaseriMovahed/ProblemSolving/blob/main/LeetCode/BestTimeToBuyAndSellStock/Solution.py) | Easy       |
 
 > Since January 2022.
