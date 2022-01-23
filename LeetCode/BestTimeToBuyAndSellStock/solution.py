@@ -18,5 +18,5 @@ class Solution:
             return(0)
 
 '''
-eat pressure.
+eat pressure...
 '''
