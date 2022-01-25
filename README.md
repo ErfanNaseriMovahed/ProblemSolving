@@ -18,5 +18,6 @@ Some of my resources are:
 | `0004` | [Bot Saves Princess 2](https://www.hackerrank.com/challenges/saveprincess2)                               | HackerRank | [Python](HackerRank/ArtificialIntelligence/BotSavesPrincess2/Solution.py)                                   | Easy       |
 | `0005` | [BotClean Stochastic](https://www.hackerrank.com/challenges/botcleanr)                                    | HackerRank | [Python](HackerRank/ArtificialIntelligence/BotCleanStochastic/Solution.py)                                  | Easy       |
 | `0006` | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                               | LeetCode   | [Python](LeetCode/ThirdMaximumNumber/Solution.py)                                                           | Easy       |
+| `0007` | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/)                                 | HackerRank | [Python](HackerRank/Python/TheMinionGame/Solution.py)                                                       | Easy       |
 
 > Since January 2022.
